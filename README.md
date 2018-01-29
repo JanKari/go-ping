@@ -79,4 +79,4 @@ setcap cap_net_raw=+ep /bin/goping-binary
 ```
 
 See [this blog](https://sturmflut.github.io/linux/ubuntu/2015/01/17/unprivileged-icmp-sockets-on-linux/)
-and [the Go icmp library](https://godoc.org/golang.org/x/net/icmp) for more details.
+and [the Go icmp library](https://godoc.org/golang.org/x/net/icmp) for more detail.
